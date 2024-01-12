@@ -15,6 +15,8 @@
   - [Network Fileshares and Permissions](https://github.com/kevinvargas47/network-fileshare)
 - <b>Virtual Private Networks (VPN)</b>
   - [Understanding and Installing Virtual Private Networks](https://github.com/kevinvargas47/vpn)
+-  <b>PowerShell Log/File CLeaner </b>
+  - [PowerShell Log Cleaner](https://github.com/kevinvargas47/powershell)
 <h2>Connect with me:</h2>
 
 
