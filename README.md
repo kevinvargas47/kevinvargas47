@@ -3,11 +3,11 @@
 <h2> Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/kevinvargas47/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/kevinvargas47/post-install-config)
+  - [osTicket: Prerequisites and Installation of OS Ticket](https://github.com/kevinvargas47/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration of OS Ticket](https://github.com/kevinvargas47/post-install-config)
   - [osTicket: Ticket Lifecycle](https://github.com/kevinvargas47/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Basics of Azure Portal](https://github.com/kevinvargas47/azure.portal)
+  - [Azure Portal Basics](https://github.com/kevinvargas47/azure.portal)
   - [Creating Virtual Machines and Inspecting Network Protocols](https://github.com/kevinvargas47/vm-network)
 - <b>Active Directory</b>
   - [Installing and Configuring Active Directory](https://github.com/kevinvargas47/active-directory)
